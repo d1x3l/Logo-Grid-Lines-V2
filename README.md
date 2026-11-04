@@ -31,7 +31,7 @@ Basato sul codice originale di [Studio Gibbous](http://www.studiogibbous.com/)
 5. (Opzionale) Clicca su **Impostazioni Avanzate** per regolare spessori, tolleranze e colori.
 6. Clicca su **Genera**.
 
-> 💡 **Consiglio Pro l'utilizzo:**  
+> 💡 **Consiglio per l'utilizzo:**  
 > Per usare e organizzare questo e altri script con un solo clic direttamente da un pannello integrato in Illustrator ti consiglio di installare all'estensione gratuita **[OpenScript Panel](https://github.com/d1x3l/OpenScript-Panel)**.
 
 ## Crediti
